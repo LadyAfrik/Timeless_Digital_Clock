@@ -1,4 +1,4 @@
-# Timeless_Digital_Clock
+# Timeless Digital Clock
 
 This program creates a heartbeat-inspired digital clock that displays the current time using animated heart shapes using Java codes written with PROCESSING IDE. The clock consists of:
 
